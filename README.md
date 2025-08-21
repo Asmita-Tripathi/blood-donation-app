@@ -26,7 +26,7 @@ The app provides an easy-to-use interface for donors to register, fill out surve
 ## 📂 Project Structure  
 
 blood_donation_app/
-│── lib/
+├── lib/
 │ ├── main.dart # Entry point
 │ ├── screens/
 │ │ ├── splash_screen.dart
@@ -36,13 +36,8 @@ blood_donation_app/
 │ │ └── thankyou_screen.dart
 │ └── widgets/ # Custom reusable widgets (if any)
 │
-│── assets/ # Images, icons, fonts
-│── pubspec.yaml # Dependencies & assets config
-
-yaml
-Copy
-Edit
-
+├── assets/ # Images, icons, fonts
+├── pubspec.yaml # Dependencies & assets config
 ---
 
 ## 🚀 Getting Started  
